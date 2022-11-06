@@ -25,7 +25,7 @@ writing code in a consistent style. That's the reason why we have a separate
 [StyleGuide](./StyleGuide.md) page to describe which style for each programming
 language they should follow, as a part of the training.
 
-# Course structure
+# Group study structure
 
 The owner of this repository will be acting as a tutor, mainly involved in
 the the assignments handouts and reviewing attendees' solution via github pull
