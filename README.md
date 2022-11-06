@@ -7,11 +7,11 @@ reusable for future use.
 
 # Target audience and reasoning
 
-The problem selection is tailored to be challenging for university students
-in their undergraduate degree which might not be as fluent as a full time 
-software engineer, but still have basic understanding in data structure and
-algorithms and also have some amount of coding experience in a programming 
-language.
+The problem selection and the group study structure is tailored to be 
+challenging for university students in their undergraduate degree which might
+ot be as fluent as a full time software engineer, but still have basic 
+understanding in data structure and algorithms and also have a solid
+coding experience in at least one programming language.
 
 The situation might be different between regions, but I feel the education
 system at least in South Korea and Germany which I have experienced, 
