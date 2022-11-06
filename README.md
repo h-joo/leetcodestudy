@@ -93,7 +93,7 @@ Follow these steps to structure the file and PR:
 1. Create a branch for a submission of a solution to a single problem. 
    (Do NOT submit everything at once, because this will make me overloaded at the end of a week cycle)
 2. Create a directory with a week number (e.g. week0)
-3. Create a file following the name with underscore (e.g. `week0/valid_boomerang.py`)
+3. Create a file following the name of the problem (`valid-boomerang`) with underscore instead of a hyphen (e.g. `week0/valid_boomerang.py`)
 4. Put a comment at the top of the submitted files, a link to the problem e.g. :
 ```python
 # https://leetcode.com/problems/valid-boomerang/
