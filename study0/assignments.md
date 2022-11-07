@@ -1,9 +1,13 @@
-
+(All problems within a week are ordered from the easiest to hardest)
 # Week 2
 
-# Week 1
+- Easy
 
-(Ordered from easiest to hardest)
+1.  [Array, Hash Table, Sorting] [Sort the people](https://leetcode.com/problems/sort-the-people/)
+2.  [Hash Table, String, Greedy] [Longest palindrome](https://leetcode.com/problems/longest-palindrome/description/)
+3.  
+
+# Week 1
 
 - Easy
 1. [String] [Reverse words in String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
