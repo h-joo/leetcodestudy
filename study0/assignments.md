@@ -15,7 +15,7 @@
 
 ## Medium
 
-1. [] [Time needed to Inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+1. [Tree, BFS, DFS] [Time needed to Inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 1. [Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting] [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 
 # Week 1
