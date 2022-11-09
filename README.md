@@ -113,6 +113,15 @@ You may submit multiple working solutions to the same problem, but then please
 name the files with the number of attempt (e.g. `week0/valid_boomerang_01.py`)
 and submit them in a separate PR.
 
+## Code reviews
+
+The tutor will review the code and leave comments with accordance to code
+styling and improvements such as simplificiation. Although regular code 
+reviews wouldn't involve in self-conflicting suggestions (deleting a 
+variable vs renaming the same variable), I will do suggest those as this
+is not actually about making changes, it's about general improvement
+in the mentees coding style.
+
 ## Discussion session
 
 We will gather in groups and every attendees will explain their approach
