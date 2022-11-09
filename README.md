@@ -69,6 +69,10 @@ The assignments will be posted in studyX/assignments.md
 ## Setup for assignment submission
 
 1. Create a public repository 
+1. Go to `Settings` of the repository, go to `collborators` click `Add people`
+  and add `h-joo`.
+1. Click 'pending invite' and  you will be able to copy the invitation link, 
+  send it to the tutor.
 1. Create a directory for each week.
 
 ## Problem Solving
@@ -85,8 +89,13 @@ attempt to submit it.
 
 ## Submitting solutions
 
-When you have a valid solution (a solution that passes on leetcode), create
-a pull request and assign [h-joo](https://github.com/h-joo) to the PR.
+When you have a valid solution (a solution that passes on leetcode), create a 
+branch for each submission of a problem and create a pull request and assign
+[h-joo](https://github.com/h-joo) to the PR. 
+
+Note : You might get errors while trying to add the tutor as a reviewer if 
+you either haven't grant the tutor collaborators permission or I haven't 
+accepted the invite yet.
 
 Follow these steps to structure the file and PR: 
 
