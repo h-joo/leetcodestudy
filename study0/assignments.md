@@ -1,5 +1,16 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 3
+
+## Easy
+
+
+
+## Medium
+
+1. [Evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/)
+1. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+
 # Week 2
 
 ## Easier
