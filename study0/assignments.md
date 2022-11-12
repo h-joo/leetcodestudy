@@ -4,12 +4,15 @@
 
 ## Easy
 
-
+1. [Pascal's Triagle](https://leetcode.com/problems/pascals-triangle/description/)
+1. [Clibming stairs](https://leetcode.com/problems/climbing-stairs/description/)
+1. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Medium
-
+1. [Reduce array size to the half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/)
 1. [Evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/)
 1. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+1. [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
 
 # Week 2
 
