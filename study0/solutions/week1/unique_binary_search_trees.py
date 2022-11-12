@@ -1,12 +1,12 @@
 # https://leetcode.com/problems/unique-binary-search-trees/description/
 
-def num_trees_recursive(n, memoize):
-    if n in memoize:
-        return memoize[n]
+def num_trees_recursive(num_nodes, memoize):
+    if num_nodes in memoize:
+        return memoize[num_nodes]
     memoize_sum = 0
-    for i in range(n):
-        memoize_sum += num_trees_recursive(i, memoize) * num_trees_recursive(n - 1 - i, memoize)
-    memoize[n] = memoize_sum
+    for i in range(num_nodes):
+        memoize_sum += num_trees_recursive(i, memoize) * num_trees_recursive(num_nodes - 1 - i, memoize)
+    memoize[num_nodes] = memoize_sum
     return memoize_sum
 
 class Solution:
