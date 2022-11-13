@@ -10,3 +10,4 @@ in your resume (In case you don't have much things to put in there)
 1. Time/Space complexity annotation on the code and explain why. (e.g. comment on each loop, add a comment on the function, ...)
 2. Describe your solution, Write down what attempts you've made and how you improved your solution.
 3. Fix the things that the tutor suggested during the PR review.
+4. Mention Style Guide in the README.md
