@@ -4,7 +4,16 @@
 
 ## Easy
 
-1. [Flood Fill](https://leetcode.com/problems/flood-fill/discussion/)
+1. #Array, #DFS, #BFS, #Matrix [Flood Fill](https://leetcode.com/problems/flood-fill/discussion/)
+1. #TwoPointers, #String, #Greedy [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/)
+
+## Medium
+
+1. #Array, #Math, #Matrix [Rotate image](https://leetcode.com/problems/rotate-image/discussion/)
+
+## Medium but bit more difficult 
+
+1. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 # Week 3
 
