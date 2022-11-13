@@ -9,6 +9,7 @@
 
 ## Medium
 
+1. #DFS, #BFS, #Union Find, #Matrix https://leetcode.com/problems/max-area-of-island/description/
 1. #Array, #Math, #Matrix [Rotate image](https://leetcode.com/problems/rotate-image/discussion/)
 
 ## Medium but bit more difficult 
