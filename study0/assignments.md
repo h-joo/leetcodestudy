@@ -1,5 +1,11 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 4
+
+## Easy
+
+1. [Flood Fill](https://leetcode.com/problems/flood-fill/discussion/)
+
 # Week 3
 
 ## Easy
