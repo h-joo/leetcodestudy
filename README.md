@@ -90,8 +90,9 @@ attempt to submit it.
 ## Submitting solutions
 
 When you have a valid solution (a solution that passes on leetcode), create a 
-branch for each submission of a problem and create a pull request and assign
-[h-joo](https://github.com/h-joo) to the PR. 
+branch for each week of and create a pull request and assign
+[h-joo](https://github.com/h-joo) to the PR whenever you have the solution to
+the first problem.
 
 Note : You might get errors while trying to add the tutor as a reviewer if 
 you either haven't grant the tutor collaborators permission or I haven't 
@@ -99,8 +100,7 @@ accepted the invite yet.
 
 Follow these steps to structure the file and PR: 
 
-1. Create a branch for a submission of a solution to a single problem. 
-   (Do NOT submit everything at once, because this will make me overloaded at the end of a week cycle)
+1. Create a branch for a submission of a solution for a whole week. 
 2. Create a directory with a week number (e.g. week0)
 3. Create a file following the name of the problem (`valid-boomerang`) with underscore instead of a hyphen (e.g. `week0/valid_boomerang.py`)
 4. Put a comment at the top of the submitted files, a link to the problem e.g. :
@@ -109,9 +109,11 @@ Follow these steps to structure the file and PR:
 import math
 ...
 ```
-You may submit multiple working solutions to the same problem, but then please
-name the files with the number of attempt (e.g. `week0/valid_boomerang_01.py`)
-and submit them in a separate PR.
+5. Whenever you have a solution for the first problem you solved, open a 
+ PR and send it to h-joo.
+6. Update new solutions to the same branch.
+Note: Please do NOT submit everything at once, because this will make me 
+  overloaded at the end of a week cycle
 
 ## Code reviews
 
