@@ -13,7 +13,7 @@
 
 ## Medium but bit more difficult 
 
-1. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+1. #Array, #String, #Trie [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 # Week 3
 
