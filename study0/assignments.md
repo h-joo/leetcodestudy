@@ -34,7 +34,7 @@
 
 ## Easier
 
-1. #Tree, #BFS, #BinaryTree [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/838970264/)
+1. #Tree, #BFS, #BinaryTree [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 1. #Array, #Hash Table, #Sorting [Sort the people](https://leetcode.com/problems/sort-the-people/)
 1. #DFS, #BST [Range of Sum BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 1. #DP [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
