@@ -2,6 +2,10 @@
 
 # Week 5
 
+## Kick Start (Medium)
+
+1. (Mandatory - Look into it at least for two hours) [Transform the String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461)
+
 # Super easy
 1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
 
@@ -13,10 +17,6 @@
 ## Medium
 1. [Group Analgrams](https://leetcode.com/problems/group-anagrams/) 
 1. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discussion/) 
-
-## Kick Start (Medium)
-
-1. (Mandatory - Look into it at least for two hours) [Transform the String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461)
 
 # Week 4
 
