@@ -1,5 +1,23 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 5
+
+# Super easy
+1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
+
+## Easy
+
+1. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+1. [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+
+## Medium
+1. [Group Analgrams](https://leetcode.com/problems/group-anagrams/) 
+1. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discussion/) 
+
+## Kick Start (Medium)
+
+1. (Mandatory - Look into it at least for two hours) [Transform the String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461)
+
 # Week 4
 
 ## Easy
