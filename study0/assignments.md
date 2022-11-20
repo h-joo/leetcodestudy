@@ -6,11 +6,9 @@
 
 1. (Mandatory - Look into it at least for two hours) [Transform the String](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435914/00000000008da461)
 
-# Super easy
-1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
-
 ## Easy
 
+1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
 1. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 1. [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
