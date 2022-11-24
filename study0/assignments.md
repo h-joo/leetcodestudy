@@ -8,13 +8,13 @@
 
 ## Easy
 
-1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
-1. [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-1. [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
+1. #Array, #BinarySearch [Binary Search](https://leetcode.com/problems/binary-search/description/)
+1. #Array, #HashTable, #BinarySearch, #Sorting [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+1. #Array, #BinarySearch, #Greedy, #PrefixSum [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
 ## Medium
-1. [Group Analgrams](https://leetcode.com/problems/group-anagrams/) 
-1. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discussion/) 
+1. #Array, #HashTable, #Sorting [Group Analgrams](https://leetcode.com/problems/group-anagrams/) 
+1. #TwoPointers, #Greedy, #Sorting [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discussion/) 
 
 # Week 4
 
