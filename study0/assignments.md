@@ -1,5 +1,13 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 6
+
+## Kick Start (Medium)
+
+1. (Mandoatry - Look into it at least for two hours) [Trash Bins](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887c32)
+
+
+
 # Week 5
 
 ## Kick Start (Medium)
