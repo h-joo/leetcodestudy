@@ -2,9 +2,11 @@
 
 # Week 6
 
-## Kick Start (Medium)
+## Kick Start (Easy-Medium)
 
-1. (Mandoatry - Look into it at least for two hours) [Trash Bins](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887c32)
+1. [Trash Bins](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887c32)
+2. [Festival](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887dba)
+3. 
 
 
 
