@@ -4,9 +4,9 @@
 
 ## Kick Start 
 
-1. Medium [Retype](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7)
+1. Easy [Retype](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7)
 1. Medium [Trash Bins](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887c32)
-1. Hard [Festival](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887dba)
+1. Hard+ [Festival](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435bae/0000000000887dba)
 
 
 
