@@ -23,7 +23,7 @@
 1. #Array, #BinarySearch, #Greedy, #PrefixSum [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
 ## Medium
-1. #Array, #HashTable, #Sorting [Group Analgrams](https://leetcode.com/problems/group-anagrams/) 
+1. #Array, #HashTable, #Sorting [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 
 1. #TwoPointers, #Greedy, #Sorting [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discussion/) 
 
 # Week 4
