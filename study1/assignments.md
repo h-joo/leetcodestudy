@@ -1,5 +1,23 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 2
+
+## Easier
+
+1. #Tree, #BFS, #BinaryTree [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+1. #Array, #Hash Table, #Sorting [Sort the people](https://leetcode.com/problems/sort-the-people/)
+1. #DFS, #BST [Range of Sum BST](https://leetcode.com/problems/range-sum-of-bst/description/)
+1. #DP [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
+
+## Easy
+
+1. #HashTable, #String, #GreedyAlgorithm [Longest palindrome](https://leetcode.com/problems/longest-palindrome/description/)
+
+## Medium
+
+1. #Tree, #BFS, #DFS [Time needed to Inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+1. #HashTable, #Greedy, #Sorting, #Heap #Counting [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
+
 # Week 1
 
 ## Easy
