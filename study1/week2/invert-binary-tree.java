@@ -19,8 +19,6 @@ class Solution {
     // Time Complexity: O(n)
     // Space Complexity: O(1)
     public TreeNode invertTree(TreeNode root) {
-        // 탐색한 순서 거꾸로 넣기..?
-
         swapNode(root);
         traverseTree(root);
 
