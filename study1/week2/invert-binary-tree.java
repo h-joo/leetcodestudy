@@ -26,16 +26,13 @@ class Solution {
     }
 
     public void traverseTree(TreeNode node) {
-        if (node != null) {
-            if (node.left != null) {
-                swapNode(node.left);
-                traverseTree(node.left);
-            }
-            if (node.right != null) {
-                swapNode(node.right);
-                traverseTree(node.right);
-            }
+        if (node == null) {
+            return;
         }
+        swapNode(node.left);
+        traverseTree(node.left);
+        swapNode(node.right);
+        traverseTree(node.right);
     }
 
     public void swapNode(TreeNode node) {
@@ -43,16 +40,8 @@ class Solution {
             return;
         }
 
-        if (node.left != null && node.right != null) {
-            TreeNode temp = node.left;
-            node.left = node.right;
-            node.right = temp;
-        } else if (node.left != null) { // if node.right == null
-            node.right = node.left;
-            node.left = null;
-        } else {    // if node.left == null
-            node.left = node.right;
-            node.right = null;
-        }
+        TreeNode temp = node.left;
+        node.left = node.right;
+        node.right = temp;
     }
 }
