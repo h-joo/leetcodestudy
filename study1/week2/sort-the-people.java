@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/sort-the-people/submissions/
 class Solution {
     // Time Complexity: O(nlogn)
-    // Space Complexity: O(1)
+    // Space Complexity: O(n) -> n(HashMap pplHashMap) + n(ArrayList heightSet) + n(String[] nameArr)
     public String[] sortPeople(String[] names, int[] heights) {
         // height becomes key because height is distinctive
         HashMap<Integer, String> pplHashMap = new HashMap<>(names.length);
@@ -11,15 +11,14 @@ class Solution {
             pplHashMap.put(heights[i], names[i]);
         }
 
-        ArrayList<Integer> heightSet = new ArrayList<>(pplHashMap.keySet());
         String[] nameArr = new String[names.length];
 
         // sorted in descending order by the heights -> O(nlogn)
-        Collections.sort(heightSet, Collections.reverseOrder());
+        Arrays.sort(heights);
 
-        int index = 0;
-        for (Integer height : heightSet) {
-            nameArr[index++] = pplHashMap.get(height);
+        // put heights into nameArr
+        for (int idx = 0 ; idx < heights.length ; ++idx ) {
+            nameArr[heights.length - idx - 1] = pplHashMap.get(heights[idx]);
         }
 
         return nameArr;
