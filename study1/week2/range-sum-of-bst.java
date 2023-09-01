@@ -16,7 +16,7 @@
  */
 class Solution {
     // Time Complexity: O(n)
-    // Space Complexity: O(1)
+    // Space Complexity: O(n)
     int sum = 0; // sum of values in the range [low, high]
 
     public int rangeSumBST(TreeNode root, int low, int high) {
