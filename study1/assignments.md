@@ -1,5 +1,19 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 3
+
+## Easy
+
+1. #Array, #DP [Pascal's Triagle](https://leetcode.com/problems/pascals-triangle/description/)
+1. #DP, #Memoization, #Array [Clibming stairs](https://leetcode.com/problems/climbing-stairs/description/)
+1. #DP, #Array, [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+## Medium
+1. #Array, #HashTable, #Greedy, #Sorting, #Heap [Reduce array size to the half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/)
+1. #Array, #HashTable, #String [Evaluate the bracket pairs of a string](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/)
+1. #DFS, #BFS, #Graph, [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+1. #Array, #HashTable, #String [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/)
+
 # Week 2
 
 ## Easier
