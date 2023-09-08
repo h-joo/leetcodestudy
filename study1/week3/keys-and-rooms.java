@@ -3,33 +3,22 @@
 // Space Complexity: O(n), n: rooms.size()
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        List<Integer> keyList = new ArrayList<>(); // key list which I have.
-        boolean[] visited = new boolean[rooms.size()]; // if it is open, then true
-        int roomIdx = 0;
-        keyList.add(0);
+        Stack<Integer> keyList = new Stack<>();
+        List<Boolean> visited = new ArrayList<Boolean>(Collections.nCopies(rooms.size(), false));
+        int totalVisited = 0;
+        keyList.push(0);
+        visited.set(0, true);
 
-        while (true) {
-            System.out.println(roomIdx);
-            if (!visited[roomIdx]) {
-                // visit the room and pick up key
-                keyList.addAll(rooms.get(roomIdx));
-                // check unlocked room
-                visited[roomIdx] = true;
-            }
-            keyList.remove(Integer.valueOf(roomIdx));
-            if (!keyList.isEmpty()) {    // set the roomIdx to the next room which will be visited
-                roomIdx = keyList.get(0);
-            } else {
-                break;
+        while (!keyList.isEmpty()) {
+            int roomIdx = keyList.pop();
+            ++totalVisited;
+            for (Integer room : rooms.get(roomIdx)) {
+                if (!visited.get(room)){
+                    keyList.push(room);
+                    visited.set(room, true);
+                }
             }
         }
-
-        for (boolean v : visited) {
-            if (!v) {    // if there is room which we can not enter
-                return false;
-            }
-        }
-
-        return true;
+        return totalVisited == rooms.size();
     }
 }
