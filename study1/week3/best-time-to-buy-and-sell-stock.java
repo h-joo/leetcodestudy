@@ -5,19 +5,11 @@ class Solution {
     public int maxProfit(int[] prices) {
         int buyPrice = prices[0];
         int sellPrice = 0;
-        int profit = sellPrice - buyPrice;  // store maxProfit
+        int profit = 0;  // store maxProfit
 
         for (int i = 1; i < prices.length; ++i) {
-            if (buyPrice > prices[i]) {
-                buyPrice = prices[i];
-            }
-            if (profit < prices[i] - buyPrice) {
-                profit = prices[i] - buyPrice;
-            }
-        }
-
-        if (profit < 0) {   // if the profit is negative
-            return 0;
+            buyPrice = Math.min(buyPrice, prices[i]);
+            profit = Math.max(profit, prices[i] - buyPrice);
         }
 
         return profit;
