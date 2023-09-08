@@ -4,7 +4,6 @@
 // In order that at least half of the integers of the array are removed, the most numerous integer has to be removed first (The more integer are removed, the faster can the array be smaller)
 class Solution {
     public int minSetSize(int[] arr) {
-        int setSize = 0;
         HashMap<Integer, Integer> integerMap = new HashMap<>();
 
         // put value into map
@@ -13,18 +12,16 @@ class Solution {
         }
 
         // in a descending order
-        List<Integer> keyList = new ArrayList<>(integerMap.keySet());
-        Collections.sort(keyList, (value1, value2) -> (integerMap.get(value2).compareTo(integerMap.get(value1))));
+        List<Integer> counts = new ArrayList<>(integerMap.values());
+        Collections.sort(counts);
 
         int cntInteger = 0; // for counting the number of integers which are removed
-        for (int key : keyList) {
-            cntInteger += integerMap.get(key);
-            setSize++;
-            if (cntInteger >= arr.length/2) {
-                return setSize;
-            }
+        int halfArray = arr.length / 2;
+        int iterateIdx = counts.size() - 1;
+        while (cntInteger < halfArray) {
+            cntInteger += counts.get(iterateIdx);
+            --iterateIdx;
         }
-
-        return setSize;
+        return counts.size() - iterateIdx - 1;
     }
 }
