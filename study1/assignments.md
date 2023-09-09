@@ -1,5 +1,22 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+# Week 4
+
+## Easy
+
+1. #Array, #DFS, #BFS, #Matrix [Flood Fill](https://leetcode.com/problems/flood-fill/discussion/)
+1. #TwoPointers, #String, #Greedy [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/)
+
+## Medium
+
+1. #DFS, #BFS, #Union Find, #Matrix [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
+1. #Array, #Math, #Matrix [Rotate image](https://leetcode.com/problems/rotate-image/discussion/)
+1. #Array, #Set #LinkedList #Deque [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+## Medium but bit more difficult 
+
+1. #Array, #String, #Trie [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+
 # Week 3
 
 ## Easy
