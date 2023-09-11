@@ -12,9 +12,6 @@
 1. #DFS, #BFS, #Union Find, #Matrix [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
 1. #Array, #Math, #Matrix [Rotate image](https://leetcode.com/problems/rotate-image/discussion/)
 1. #Array, #Set #LinkedList #Deque [LRU Cache](https://leetcode.com/problems/lru-cache/)
-
-## Medium but bit more difficult 
-
 1. #Array, #String, #Trie [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 # Week 3
