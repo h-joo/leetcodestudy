@@ -3,7 +3,7 @@
 // Space Comlexity: O(n^2), n: numRows (Because there is a list which contains n lists)
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> pascal = new ArrayList<List<Integer>>(1);
+        List<List<Integer>> pascal = new ArrayList<List<Integer>>();    // result
         List<Integer> rowList = new ArrayList<Integer>();   // row
 
         rowList.add(1); // numRows >= 1 => so there is always 1 on the top of triangle
