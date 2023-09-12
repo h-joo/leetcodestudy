@@ -11,7 +11,7 @@ class Solution {
             integerMap.put(a, integerMap.getOrDefault(a, 0) + 1);
         }
 
-        // in a descending order
+        // in an ascending order
         List<Integer> counts = new ArrayList<>(integerMap.values());
         Collections.sort(counts);
 
