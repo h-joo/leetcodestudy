@@ -1,5 +1,18 @@
 ***All problems within a week are ordered from the easiest to hardest***
 
+
+# Week 6
+
+## Medium
+
+1. #Dp [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+2. #String, #Hashmap [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## Hard
+
+1. #Hashmap, #Sorting, #Counting [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+1. #Sorting, #Median, #BinarySearch [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
 # Week 5
 
 ## Easy
