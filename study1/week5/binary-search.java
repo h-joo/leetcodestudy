@@ -8,7 +8,6 @@ class Solution {
 
         while (left <= right) {
             int mid = (left + right)/2;
-            System.out.println("mid: " + nums[mid] + ", left: " + nums[left] + ", right: " + nums[right]);
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] < target) {
